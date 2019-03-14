@@ -1,6 +1,6 @@
 pipeline {
   environment {
-    registry = "sachinthatte/myWebServer"
+    registry = "sachinthatte/mywebwerver"
     registryCredential = 'dockerhubcred'
   }
   agent any
